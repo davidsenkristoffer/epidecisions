@@ -7,6 +7,7 @@
 ### Initialiser verktøyet for ditt prosjekt
 
 - `adr init` i roten av ditt prosjekt.
+  - Standardstien er `doc/architecture/decisions`, men den kan overstyres om ønskelig.
 
 ### Opprette et nytt dokument
 
